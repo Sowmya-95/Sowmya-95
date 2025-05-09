@@ -40,8 +40,9 @@
 
 ---
 
+### 🔗 Let's Connect
 
-<p align="center">### 🔗 Let's Connect
+<p align="center">
   <a href="mailto:sowmyakamathr95"gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
