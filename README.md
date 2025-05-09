@@ -1,24 +1,27 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Sowmya 👋
 
-Welcome to my GitHub! I'm a [Your Role/Title] with a passion for [your interests – e.g., full-stack development, data science, machine learning, open-source].
+Welcome to my GitHub! I'm a Web Developer with a passion for full-stack development, data science, machine learning.
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning: [e.g., Rust, AI, Next.js]
+- 🌱 I’m currently learning: [ AI Agents, Next.js]
 - 💼 I’m currently working on: [e.g., a side project, freelancing, open-source contributions]
-- 🤝 I’m open to collaborating on: [e.g., open-source projects, hackathons, new ideas]
-- 📫 How to reach me: [email address, LinkedIn, personal site]
+- 📫 How to reach me: https://sowmya-95.github.io/portfolio/
 
-## 🛠️ Skills
+## 🛠️ Things I Code With
 
-- Languages: [e.g., JavaScript, Python, TypeScript, C++]
-- Frameworks & Libraries: [e.g., React, Node.js, Django, Tailwind CSS]
-- Tools & Platforms: [e.g., Git, Docker, Firebase, AWS]
+Here are some of the technologies and tools I work with:
 
-## 📈 GitHub Stats
+- **Languages & Platforms**: TypeScript, HTML5, Node.js, MongoDB
+- **Frontend**: React, Angular, Redux, GraphQL, Sass, Styled Components, d3.js
+- **Backend & APIs**: NestJS, Apollo, ReactiveX, Insomnia
+- **DevOps & Tools**: Docker, Google Cloud Platform, Heroku, GitHub Actions, Git, npm, Rollup, Webpack, Prettier
+- **Browsers & Environments**: Brave browser
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sowmya-95&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+## 📊 GitHub Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=10&hide=css)
+
 
 ## ✨ Fun Fact
 
