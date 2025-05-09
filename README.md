@@ -17,7 +17,7 @@
 
 ### 🛠️ Tech Arsenal
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,html,css,tailwind,scss,webpack,vite,bun,nodejs,flask,fastapi,express,postgres,mongodb,git,github,gitlab,docker,heroku,figma,linux,windows,vscode" />
 </p>
 > 🧰 *Bonus tools: Prettier, npm, D3.js, Three.js*
@@ -42,15 +42,21 @@
 
 ### 🔗 Let's Connect
 
-<p align="center">
-  <a href="mailto:sowmyakamathr95"gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+I'm always happy to chat about tech, ideas, or potential collaborations.  
+Feel free to reach out or drop a message through any of the platforms below:
+<p align="left">
+  <a href="mailto:sowmyakamathr95@gmail.com" title="Email Me">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/sowmyakamath" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+   &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/sowmyakamath"  title="Connect on LinkedIn">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" />
   </a>
-  <a href="https://sowmya-95.github.io/portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" />
+  &nbsp;&nbsp;
+  <a href="https://sowmya-95.github.io/portfolio"title="Visit my portfolio">
+ <img src="https://img.icons8.com/ios-filled/50/ffffff/domain.png" alt="Portfolio" />
   </a>
+  &nbsp;&nbsp;
 </p>
+
 
