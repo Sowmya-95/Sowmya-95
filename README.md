@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Sowmya 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7A100&center=true&vCenter=true&lines=AI Engineer+%F0%9F%92%BB;Clean+Code+Fanatic+%F0%9F%92%AA;Always+Learning+New+Techs+%F0%9F%92%BB" />
+  <img src="https://readme-typing-svg.demolab.com?color=F7A100&center=true&vCenter=true&lines=AI+Engineer+%F0%9F%92%BB;Clean+Code+Fanatic+%F0%9F%92%AA;Always+Learning+New+Tech+%F0%9F%92%BB" alt="typing animation" />
 </p>
 
 ---
