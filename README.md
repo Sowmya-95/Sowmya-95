@@ -1,16 +1,16 @@
 <h1 align="center">Hi there, I'm Sowmya 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7A100&center=true&vCenter=true&lines=Web+Developer+%F0%9F%92%BB;Clean+Code+Fanatic+%F0%9F%92%AA;Always+Learning+New+Techs+%F0%9F%92%BB" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7A100&center=true&vCenter=true&lines=AI Engineer+%F0%9F%92%BB;Clean+Code+Fanatic+%F0%9F%92%AA;Always+Learning+New+Techs+%F0%9F%92%BB" />
 </p>
 
 ---
 
 ### 🧠 Who Am I?
 
-- 👨🏽‍💻 I build scalable, performant web applications — from frontend to backend.
+- 👨🏽‍💻 I build scalable, performant web applications, AI powered chatbots, RAG pipelines — from frontend to backend.
 - 🌍 Passionate about working with real-world data, APIs, and UI/UX-focused projects.
-- 🔧 Currently working as a web developer using **React 19**, **NestJS**, **TypeScript**, and **AI Agents**.
+- 🔧 Currently working as a AI Engineer using **React 19**, **NestJS**, **TypeScript**, and **AI Agents**.
 - 🚀 Actively exploring **AI**, **system optimization**, and advanced **TypeScript** for full-stack solutions.
 
 ---
